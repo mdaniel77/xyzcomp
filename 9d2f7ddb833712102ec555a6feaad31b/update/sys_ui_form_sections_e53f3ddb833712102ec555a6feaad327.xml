@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e53f3ddb833712102ec555a6feaad327" sys_domain="global" table="x_1579203_xyzcomp_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 22:10:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>793f711f833712102ec555a6feaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1579203_xyzcomp_request" name="x_1579203_xyzcomp_request" sys_domain="global" view="Default view">e53f3ddb833712102ec555a6feaad327</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1579203_xyzcomp_request" sys_domain="global" view="Default view">bd3f3ddb833712102ec555a6feaad32a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 22:10:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 22:10:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d3f711f833712102ec555a6feaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1579203_xyzcomp_request" name="x_1579203_xyzcomp_request" sys_domain="global" view="Default view">e53f3ddb833712102ec555a6feaad327</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1579203_xyzcomp_request" sys_domain="global" view="Default view">353f711f833712102ec555a6feaad345</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 22:10:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1579203_xyzcomp_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 22:10:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e53f3ddb833712102ec555a6feaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1579203_xyzcomp_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="xyzcomp" source="x_1579203_xyzcomp">9d2f7ddb833712102ec555a6feaad31b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="xyzcomp">9d2f7ddb833712102ec555a6feaad31b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e53f3ddb833712102ec555a6feaad327</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 22:10:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

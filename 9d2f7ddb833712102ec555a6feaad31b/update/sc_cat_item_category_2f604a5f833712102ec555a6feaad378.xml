@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="xyzcomp Form">9f604a5f833712102ec555a6feaad32f</sc_cat_item>
+        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 22:15:40</sys_created_on>
+        <sys_id>2f604a5f833712102ec555a6feaad378</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Laptops.xyzcomp Form</sys_name>
+        <sys_package display_value="xyzcomp" source="x_1579203_xyzcomp">9d2f7ddb833712102ec555a6feaad31b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="xyzcomp">9d2f7ddb833712102ec555a6feaad31b</sys_scope>
+        <sys_update_name>sc_cat_item_category_2f604a5f833712102ec555a6feaad378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 22:25:59</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
