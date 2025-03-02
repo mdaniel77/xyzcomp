@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9369472383b312102ec555a6feaad3cf" label="xyzcomp Repoter" max_length="40" name="x_1579203_xyzcomp_xyzcomp_repoter" type="collection">
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="company location" max_length="40" name="company_location" read_only="true" type="string"/>
+        <element display="true" label="company" mandatory="true" max_length="40" name="company" reference="x_1579203_xyzcomp_xyzcompany_company" type="reference"/>
+    </element>
+</database>

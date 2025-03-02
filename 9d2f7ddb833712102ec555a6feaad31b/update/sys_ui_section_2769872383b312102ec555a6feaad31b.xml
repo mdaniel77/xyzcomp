@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2769872383b312102ec555a6feaad31b" sys_domain="global" table="x_1579203_xyzcomp_xyzcomp_repoter" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-24 22:32:43</sys_created_on>
+            <sys_id>8fedc3a783b312102ec555a6feaad338</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1579203_xyzcomp_xyzcomp_repoter" sys_domain="global" view="Default view">2769872383b312102ec555a6feaad31b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-24 22:32:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-24 22:32:43</sys_created_on>
+            <sys_id>87edc3a783b312102ec555a6feaad339</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1579203_xyzcomp_xyzcomp_repoter" sys_domain="global" view="Default view">2769872383b312102ec555a6feaad31b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-24 22:32:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-24 22:32:43</sys_created_on>
+            <sys_id>8fedc3a783b312102ec555a6feaad339</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1579203_xyzcomp_xyzcomp_repoter" sys_domain="global" view="Default view">2769872383b312102ec555a6feaad31b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-24 22:32:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company_location</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-24 22:32:43</sys_created_on>
+            <sys_id>87edc3a783b312102ec555a6feaad33a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1579203_xyzcomp_xyzcomp_repoter" sys_domain="global" view="Default view">2769872383b312102ec555a6feaad31b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-24 22:32:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1579203_xyzcomp_xyzcomp_repoter</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-24 22:13:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2769872383b312102ec555a6feaad31b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1579203_xyzcomp_xyzcomp_repoter</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="xyzcomp" source="x_1579203_xyzcomp">9d2f7ddb833712102ec555a6feaad31b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="xyzcomp">9d2f7ddb833712102ec555a6feaad31b</sys_scope>
+            <sys_update_name>sys_ui_section_2769872383b312102ec555a6feaad31b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-24 22:13:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
